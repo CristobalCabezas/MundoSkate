@@ -10,4 +10,4 @@ Equipo de trabajo:
 
 - Juan Plaza
 - Cristobal Cabezas
-- Pablo Gonzalez
+- Gerson Figelist
